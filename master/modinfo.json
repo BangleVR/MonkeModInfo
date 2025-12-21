@@ -8,6 +8,14 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip"
   },
   {
+    "name": "Utilla-Public",
+    "author": "iiDk the actual",
+    "version": "1.6.22.666",
+    "git_path": "iiDk-the-actual/Utilla-Public",
+    "group": "Libraries",
+    "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.22.666/Utilla.dll"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
