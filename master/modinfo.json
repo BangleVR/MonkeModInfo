@@ -53,6 +53,14 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
+    "name": "Utilla-Public",
+    "author": "iiDk the actual",
+    "version": "1.6.22.666",
+    "git_path": "iiDk-the-actual/Utilla-Public",
+    "group": "Libraries",
+    "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.22.666/Utilla.dll"
+  },
+  {
     "name": "Tic Tac Toe",
     "author": "Husky",
     "version": "1.0.3",
@@ -113,14 +121,6 @@
     "git_path": "developer9998/Utilla",
     "group": "Core",
     "download_url": "https://github.com/developer9998/Utilla/releases/download/1.6.22/Utilla.dll"
-  },
-  {
-    "name": "Utilla-Public",
-    "author": "iiDk the actual",
-    "version": "1.6.22.666",
-    "git_path": "iiDk-the-actual/Utilla-Public",
-    "group": "Core",
-    "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.22.666/Utilla.dll"
   },
   {
     "name": "ForeverCosmetx",
