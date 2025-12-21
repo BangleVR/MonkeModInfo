@@ -81,9 +81,31 @@
     "dependencies": [
       "Utilla"
     ],
-    "git_path": " menker-cs/Elixir",
+    "git_path": "menker-cs/Elixir",
     "group": "Gameplay",
     "download_url": "https://github.com/menker-cs/Elixir/releases/download/Elixir-V5/Elixir.dll"
+  },
+  {
+    "name": "Fortnite Emote Wheel",
+    "author": "crimsoncauldron",
+    "version": "1.3.4",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "iiDk-the-actual/FortniteEmoteWheel",
+    "group": "Gameplay",
+    "download_url": "https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/download/1.3.4/FortniteEmoteWheel.dll"
+  },
+  {
+    "name": "WalkSim",
+    "author": "KyleTheScientist",
+    "version": "2.0.5",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "iiDk-the-actual/WalkSim",
+    "group": "Gameplay",
+    "download_url": "https://github.com/iiDk-the-actual/WalkSim/releases/download/2.0.5/WalkSim.dll"
   },
   {
     "name": "Utilla",
@@ -92,6 +114,38 @@
     "git_path": "legoandmars/Utilla",
     "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+  },
+  {
+    "name": "Utilla-Public",
+    "author": "iiDk-the-actual",
+    "version": "1.6.22.666",
+    "git_path": "iiDk-the-actual/Utilla-Public",
+    "group": "Core",
+    "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.22.666/Utilla.dll"
+  },
+  {
+    "name": "ForeverCosmetx",
+    "author": "iiDk the actual",
+    "version": "1.0.1",
+    "git_path": "iiDk-the-actual/ForeverCosmetx",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/download/1.0.1/ForeverCosmetx.dll"
+  },
+  {
+    "name": "iiCamMod",
+    "author": "iiDk the actual",
+    "version": "1.0.3",
+    "git_path": "iiDk-the-actual/iiCamMod",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/iiDk-the-actual/iiCamMod/releases/download/1.0.3/iiCamMod.dll"
+  },
+  {
+    "name": "NameTags",
+    "author": "iiDk the actual",
+    "version": "1.0.2",
+    "git_path": "iiDk-the-actual/NameTags",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/iiDk-the-actual/NameTags/releases/download/1.0.2/NameTags.dll"
   },
   {
     "name": "bHaptics",
