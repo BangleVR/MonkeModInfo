@@ -108,11 +108,11 @@
   },
   {
     "name": "Utilla",
-    "author": "bobbievr",
-    "version": "1.6.14",
-    "git_path": "legoandmars/Utilla",
+    "author": "developer9998",
+    "version": "1.6.22",
+    "git_path": "developer9998/Utilla",
     "group": "Core",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+    "download_url": "https://github.com/developer9998/Utilla/releases/download/1.6.22/Utilla.dll"
   },
   {
     "name": "Utilla-Public",
