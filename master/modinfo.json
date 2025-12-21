@@ -64,6 +64,17 @@
     "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
   },
   {
+    "name": "iis Stupid Menu",
+    "author": "iiDk",
+    "version": "7.9.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": " iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Gameplay",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/7.9.0/iis_Stupid_Menu.dll"
+  },
+  {
     "name": "Utilla",
     "author": "bobbievr",
     "version": "1.6.14",
