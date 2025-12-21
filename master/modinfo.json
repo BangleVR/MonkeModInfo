@@ -96,7 +96,15 @@
     "download_url": "https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/download/1.3.4/FortniteEmoteWheel.dll"
   },
   {
-    "name": "WalkSim",
+    "name": "Gorilla Shirts",
+    "author": "developer9998",
+    "version": "2.3.1",
+    "git_path": "iiDk-the-actual/GorillaShirts",
+    "group": "Gameplay",
+    "download_url": "https://github.com/iiDk-the-actual/GorillaShirts/releases/download/2.3.1/GorillaShirts.dll"
+  },
+  {
+    "name": "Walking Simulator",
     "author": "KyleTheScientist",
     "version": "2.0.5",
     "dependencies": [
@@ -123,6 +131,18 @@
     "download_url": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/download/1.0.1/ForeverCosmetx.dll"
   },
   {
+    "name": "Computer Interface",
+    "author": "DecalFree",
+    "version": "1.9.3",
+    "dependencies": [
+      "Bepinject",
+      "Extenject"
+    ],
+    "git_path": "DecalFree/ComputerInterface",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/DecalFree/ComputerInterface/releases/download/1.9.3/ComputerInterface.zip"
+  },
+  {
   "name": "Public Utill𝐚",
   "author": "iiDk the actual",
   "version": "1.6.22.666",
@@ -145,6 +165,38 @@
     "git_path": "iiDk-the-actual/NameTags",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/iiDk-the-actual/NameTags/releases/download/1.0.2/NameTags.dll"
+  },
+  {
+    "name": "GorillaMedia",
+    "author": "iiDk the actual",
+    "version": "1.0.4",
+    "git_path": "iiDk-the-actual/GorillaMedia",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/iiDk-the-actual/GorillaMedia/releases/download/1.0.4/GorillaMedia.dll"
+  },
+  {
+    "name": "Zlothy Nametag",
+    "author": "ZlothY29IQ",
+    "version": "1.0.8",
+    "git_path": "ZlothY29IQ/Zlothy-Nametag",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/ZlothY29IQ/Zlothy-Nametag/releases/download/v1.0.8/ZlothYNametag.dll"
+  },
+  {
+    "name": "BetterMirror",
+    "author": "The-Graze",
+    "version": "3.3.0",
+    "git_path": "The-Graze/BetterMirror",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/BetterMirror/releases/download/3.3/BetterMirror.dll"
+  },
+  {
+    "name": "NoLeaves",
+    "author": "Ventern-gtr",
+    "version": "1.1.0",
+    "git_path": "Ventern-gtr/NoLeaves",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Ventern-gtr/NoLeaves/releases/download/1.1/NoLeaves.dll"
   },
   {
     "name": "bHaptics",
