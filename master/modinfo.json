@@ -70,9 +70,20 @@
     "dependencies": [
       "Utilla"
     ],
-    "git_path": " iiDk-the-actual/iis.Stupid.Menu",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Gameplay",
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/7.9.0/iis_Stupid_Menu.dll"
+  },
+  {
+    "name": "Elixer Menu",
+    "author": "menker cs",
+    "version": "5.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": " menker-cs/Elixir",
+    "group": "Gameplay",
+    "download_url": "https://github.com/menker-cs/Elixir/releases/download/Elixir-V5/Elixir.dll"
   },
   {
     "name": "Utilla",
