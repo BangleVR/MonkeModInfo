@@ -104,6 +104,14 @@
     "download_url": "https://github.com/iiDk-the-actual/GorillaShirts/releases/download/2.3.1/GorillaShirts.dll"
   },
   {
+    "name": "Shirts Pad",
+    "author": "ZlothY29IQ",
+    "version": "1.0.4",
+    "git_path": "ZlothY29IQ/ShirtsPad",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ZlothY29IQ/ShirtsPad/releases/download/V1.0.4/ShirtsPad.dll"
+  },
+  {
     "name": "Walking Simulator",
     "author": "KyleTheScientist",
     "version": "2.0.5",
@@ -123,7 +131,7 @@
     "download_url": "https://github.com/developer9998/Utilla/releases/download/1.6.22/Utilla.dll"
   },
   {
-    "name": "ForeverCosmetx",
+    "name": "Forever Cosmetx",
     "author": "iiDk the actual",
     "version": "1.0.1",
     "git_path": "iiDk-the-actual/ForeverCosmetx",
@@ -151,7 +159,15 @@
   "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.22.666/Utilla.dll"
   },
   {
-    "name": "iiCamMod",
+  "name": "Gorilla Volume Controls",
+  "author": "ZlothY29IQ",
+  "version": "1.0.0",
+  "git_path": "ZlothY29IQ/GorillaVolumeControls",
+  "group": "Tweaks / Tools",
+  "download_url": "https://github.com/ZlothY29IQ/GorillaVolumeControls/releases/download/V1.0.0/GorillaVolumeControls.dll"
+  },
+  {
+    "name": "ii Cam Mod",
     "author": "iiDk the actual",
     "version": "1.0.3",
     "git_path": "iiDk-the-actual/iiCamMod",
@@ -159,7 +175,7 @@
     "download_url": "https://github.com/iiDk-the-actual/iiCamMod/releases/download/1.0.3/iiCamMod.dll"
   },
   {
-    "name": "NameTags",
+    "name": "Name Tags",
     "author": "iiDk the actual",
     "version": "1.0.2",
     "git_path": "iiDk-the-actual/NameTags",
@@ -167,7 +183,7 @@
     "download_url": "https://github.com/iiDk-the-actual/NameTags/releases/download/1.0.2/NameTags.dll"
   },
   {
-    "name": "GorillaMedia",
+    "name": "Gorilla Media",
     "author": "iiDk the actual",
     "version": "1.0.4",
     "git_path": "iiDk-the-actual/GorillaMedia",
