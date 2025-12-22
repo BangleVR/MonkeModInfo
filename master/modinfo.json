@@ -53,6 +53,14 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
+    "name": "AtlasMenu",
+    "author": "InoxiGtag",
+    "version": "13.8.0",
+    "git_path": "InoxiGtag/AtlasMenu",
+    "group": "Gameplay",
+    "download_url": "https://github.com/InoxiGtag/AtlasMenu/releases/download/V13.8.0/Atlas.Remade.dll"
+  },
+  {
     "name": "Tic Tac Toe",
     "author": "Husky",
     "version": "1.0.3",
