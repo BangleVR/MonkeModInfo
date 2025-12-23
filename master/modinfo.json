@@ -104,11 +104,19 @@
     "download_url": "https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/download/1.3.4/FortniteEmoteWheel.dll"
   },
   {
+    "name": "Xyfer",
+    "author": "xmeoo",
+    "version": "1.0",
+    "git_path": "xmeoo/Xyfer",
+    "group": "Gameplay",
+    "download_url": "https://github.com/xmeoo/Xyfer/releases/download/menu/Xyfer.dll"
+  },
+  {
     "name": "Gorilla Shirts",
     "author": "developer9998",
     "version": "2.3.1",
     "git_path": "iiDk-the-actual/GorillaShirts",
-    "group": "Gameplay",
+    "group": "Cosmetic",
     "download_url": "https://github.com/iiDk-the-actual/GorillaShirts/releases/download/2.3.1/GorillaShirts.dll"
   },
   {
@@ -116,7 +124,7 @@
     "author": "ZlothY29IQ",
     "version": "1.0.4",
     "git_path": "ZlothY29IQ/ShirtsPad",
-    "group": "Gameplay",
+    "group": "Cosmetic",
     "download_url": "https://github.com/ZlothY29IQ/ShirtsPad/releases/download/V1.0.4/ShirtsPad.dll"
   },
   {
@@ -143,7 +151,7 @@
     "author": "iiDk the actual",
     "version": "1.0.1",
     "git_path": "iiDk-the-actual/ForeverCosmetx",
-    "group": "Gameplay",
+    "group": "Cosmetic",
     "download_url": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/download/1.0.1/ForeverCosmetx.dll"
   },
   {
