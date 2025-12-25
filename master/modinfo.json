@@ -112,6 +112,57 @@
     "download_url": "https://github.com/xmeoo/Xyfer/releases/download/menu/Xyfer.dll"
   },
   {
+    "name": "MonoSandbox",
+    "author": "developer9998",
+    "version": "1.2.3",
+    "git_path": "developer9998/MonoSandbox",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/MonoSandbox/releases/download/1.2.3/MonoSandbox.dll"
+  },
+  {
+    "name": "GorillaHands",
+    "author": "CrafterBotOfficial",
+    "version": "1.0.1",
+    "git_path": "CrafterBotOfficial/GorillaHands",
+    "group": "Gameplay",
+    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/download/1.0.1/GorillaHands.dll"
+  },
+  {
+    "name": "GorillaTrials",
+    "author": "LapisGit",
+    "version": "1.0.1",
+    "git_path": "LapisGit/GorillaTrials",
+    "group": "Gameplay",
+    "download_url": "https://github.com/LapisGit/GorillaTrials/releases/download/1.4.0-release/GorillaTrials.dll"
+  },
+  {
+    "name": "BingusNametags",
+    "author": "sirkingbinx",
+    "version": "1.3.0",
+    "git_path": "sirkingbinx/BingusNametags",
+    "group": "Gameplay",
+    "download_url": "https://github.com/sirkingbinx/BingusNametags/releases/download/1.3.0/BingusNametags.dll"
+  },
+  {
+    "name": "WhoIsTalking",
+    "author": "The Graze",
+    "version": "5.2.2",
+    "git_path": "The-Graze/WhoIsTalking",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/download/5.2.2/WhoIsTalking.dll"
+  },
+  {
+    "name": "WhoIsThatMonke",
+    "author": "HanSolo1000Falcon",
+    "version": "2.0.1",
+    "dependencies": [
+      "WhoIsTalking"
+    ],
+    "git_path": "HanSolo1000Falcon/WhoIsThatMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1000Falcon/WhoIsThatMonke/releases/download/v2.0.1/WhoIsThatMonke.dll"
+  },
+  {
     "name": "Gorilla Shirts",
     "author": "developer9998",
     "version": "2.3.1",
@@ -166,6 +217,93 @@
     "download_url": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/download/1.0.1/ForeverCosmetx.dll"
   },
   {
+    "name": "Blink2",
+    "author": "The Graze",
+    "version": "1.1.3",
+    "git_path": "The-Graze/Blink2",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/Blink2/releases/download/1.1.3/Blink2.dll"
+  },
+  {
+    "name": "Gorilla Avatar Catalog",
+    "author": "developer9998",
+    "version": "1.0.1",
+    "git_path": "developer9998/GorillaAvatarCatalog",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaAvatarCatalog/releases/download/1.0.1/GorillaAvatarCatalog.dll"
+  },
+  {
+    "name": "Gorilla Cosmetic Tweaks",
+    "author": "developer9998",
+    "version": "1.0.1",
+    "git_path": "developer9998/GorillaCosmeticTweaks",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaCosmeticTweaks/releases/download/1.0.1/GorillaCosmeticTweaks.dll"
+  },
+  {
+    "name": "Gorilla Pronouns",
+    "author": "developer9998",
+    "version": "1.0.1",
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/download/1.0.1/GorillaPronouns.dll"
+  },
+  {
+    "name": "Gorilla Ghost Vision",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaGhostVision",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaGhostVision/releases/download/v1.0.0/GorillaGhostVision.dll"
+  },
+  {
+    "name": "Monke Phone",
+    "author": "developer9998",
+    "version": "1.0.5",
+    "git_path": "developer9998/MonkePhone",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/MonkePhone/releases/download/1.0.5/MonkePhone.dll"
+  },
+  {
+    "name": "Gorilla Faces",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaFaces",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaFaces/releases/download/1.0.0/GorillaFaces.zip"
+  },
+  {
+    "name": "MonkeSky PC",
+    "author": "The Graze",
+    "version": "2.3.0",
+    "git_path": "The-Graze/MonkeSky-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/MonkeSky-PC/releases/download/2.3.0/MonkeSkys-PC.dll"
+  },
+  {
+    "name": "Gorilla Pronouns ComputerInterface",
+    "author": "developer9998",
+    "version": "1.0.1",
+    "dependencies": [
+      "Gorilla Pronouns",
+      "Computer Interface",
+    ],
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/download/1.0.1/GorillaPronouns.ComputerInterface.dll"
+  },
+  {
+    "name": "Gorilla Pronouns Info Watch",
+    "author": "developer9998",
+    "version": "1.0.1",
+    "dependencies": [
+      "Gorilla Pronouns",
+    ],
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/download/1.0.1/GorillaPronouns.InfoWatch.dll"
+  },
+  {
     "name": "Computer Interface",
     "author": "DecalFree",
     "version": "1.9.3",
@@ -194,6 +332,14 @@
   "download_url": "https://github.com/ZlothY29IQ/GorillaVolumeControls/releases/download/V1.0.0/GorillaVolumeControls.dll"
   },
   {
+  "name": "GorillaFriends",
+  "author": "developer9998",
+  "version": "1.2.5",
+  "git_path": "developer9998/GorillaFriends",
+  "group": "Tweaks / Tools",
+  "download_url": "https://github.com/developer9998/GorillaFriends/releases/download/1.2.5/GorillaFriends.dll"
+  },
+  {
     "name": "ii Cam Mod",
     "author": "iiDk the actual",
     "version": "1.0.3",
@@ -208,6 +354,49 @@
     "git_path": "iiDk-the-actual/NameTags",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/iiDk-the-actual/NameTags/releases/download/1.0.2/NameTags.dll"
+  },
+  {
+    "name": "Gorilla Optimizer",
+    "author": "sevvy-wevvy",
+    "version": "1.0.2",
+    "git_path": "sevvy-wevvy/Gorilla-Optimizer",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/download/1.1.0/GorillaOptimizer.dll"
+  },
+  {
+    "name": "Gorilla Historical Teleporter",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaHistoricalTeleporter",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaHistoricalTeleporter/releases/download/1.0.0/GorillaHistoricalTeleporter.dll"
+  },
+  {
+    "name": "Cosmetics Loading Bar",
+    "author": "The Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/CosmeticsLoadingBar",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticsLoadingBar/releases/download/1.0.0/CosmeticsLoadingBar.dll"
+  },
+  {
+    "name": "NgbatzSubBoard",
+    "author": "NgbatzYT",
+    "version": "1.1.2",
+    "git_path": "NgbatzYT/NgbatzSubBoard",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/download/1.1.2/NgbatzSubBoard.dll"
+  },
+  {
+    "name": "Gorilla Info Watch Lite",
+    "author": "developer9998e",
+    "version": "1.0.0",
+    "dependencies": [
+      "Gorilla Faces",
+    ],
+    "git_path": "developer9998/GorillaInfoWatch-Lite",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaInfoWatch-Lite/releases/download/1.0.1/GorillaInfoWatch.dll"
   },
   {
     "name": "Gorilla Media",
